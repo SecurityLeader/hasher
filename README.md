@@ -32,9 +32,13 @@ Hasher is a Hash Cracker that has supported more than 7 types of hashes
 #[ Installation ]
 
 $ apt update upgrade
+
 $ apt install python2 git
+
 $ git clone https://github.com/SecurityLeader/hasher
+
 $ cd hasher
+
 $ python2 hash.py
 
 #Screen Shot
